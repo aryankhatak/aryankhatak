@@ -32,6 +32,6 @@
 
 <h3 align="left">GitHub Stats:</h3>
 
-![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=aryankhatak&show_icons=true&theme=onedark)
+![Aryan's GitHub stats](https://github-stats-extended.vercel.app/api?username=aryankhatak&show_icons=true&theme=onedark&v=1)
 
 ![Aryan's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aryankhatak&theme=onedark)
