@@ -1,19 +1,17 @@
-# Aryan Khatak
-**`Junior at SVNIT-Surat`**
+<h1 align="left">Hey there, I'm Aryan! 👋</h1>
+
+<img align="right" height="180" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnJ5djV5MmVraW5haGRzcmZhOHJtNnlyNHA4YngyNWVuOGl2bXdubyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LHZyixOnHwDDy/giphy.gif"  />
+
+**`Integrated M.Sc. Mathematics @ SVNIT Surat | Class of 2029`**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryankhatak&label=Profile%20views&color=0e75b6&style=flat" alt="aryankhatak" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aryankhatak" alt="aryankhatak" /></a> </p>
-
-- 🔭 I'm currently working on **Industrial Task Monitoring Portal**
-
-- 🌱 I'm currently learning **Docker, Advanced DSA (Segment Trees, Fenwick Trees, LCA/Binary Lifting), Measure Theory**
-
-- 👯 I'm looking to collaborate on **Open source contributions via GSSoC 2026**
-
+- 🏢 Recently built the backend (Node.js/Express/MySQL) for an **Industrial Task Monitoring Portal** during my Reliance Industries internship
+- 🌱 Currently learning **Docker, Advanced DSA (Segment Trees, Fenwick Trees, LCA/Binary Lifting), Measure Theory**
+- 🎯 Targeting **quant/HFT roles** (Jane Street, Optiver, IMC, Graviton) and top-tier SWE — competitive programming is my prep foundation
+- 👯 Looking to collaborate on **open source via GSSoC 2026**
 - 💬 Ask me about **Node.js, React, Competitive Programming, or Quant/HFT interview prep**
-
-- 📫 How to reach me **aryankhatak28@gmail.com**
+- 📫 Reach me at **aryankhatak28@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -31,7 +29,15 @@
 ---
 
 <h3 align="left">GitHub Stats:</h3>
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=aryankhatak&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" height="180" alt="aryan's github stats" />
+</div>
 
-![Aryan's GitHub stats](https://github-stats-extended.vercel.app/api?username=aryankhatak&show_icons=true&theme=onedark&v=1)
+<div align="left">
+  <img src="https://streak-stats.demolab.com/?user=aryankhatak&theme=tokyonight&hide_border=true" height="180" alt="aryan's github streak" />
+</div>
 
-![Aryan's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aryankhatak&theme=onedark)
+<h3 align="left">Trophies:</h3>
+<div align="left">
+  <img src="https://github-profile-trophy.vercel.app?username=aryankhatak&theme=tokyonight&column=7&row=1&margin-w=2&no-frame=true" height="150" alt="trophy graph" />
+</div> 
