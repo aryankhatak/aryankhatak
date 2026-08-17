@@ -1,8 +1,4 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Aryan%20Khatak&fontAlign=50&fontAlignY=38&color=gradient&desc=Software%20Engineering%20•%20Machine%20Learning%20•%20Competitive%20Programming&descAlignY=58"/>
-
-</div>
+<h1 align="left">Hey there, I'm Aryan! 👋</h1>
 
 <img align="right" height="180" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnJ5djV5MmVraW5haGRzcmZhOHJtNnlyNHA4YngyNWVuOGl2bXdubyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LHZyixOnHwDDy/giphy.gif" />
 
